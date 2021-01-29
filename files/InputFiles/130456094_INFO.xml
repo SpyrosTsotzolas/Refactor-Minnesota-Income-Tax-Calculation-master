@@ -1,0 +1,48 @@
+<Name> Nikos Zisis </Name>
+<AFM> 130456094 </AFM>
+<Status> Single </Status>
+<Income> 40000.0 </Income>
+
+<Receipts>
+
+<ReceiptID> 5 </ReceiptID>
+<Date> 10/5/2016 </Date>
+<Kind> Entertainment </Kind>
+<Amount> 5000.0 </Amount>
+<Company> Hilton </Company>
+<Country> Greece </Country>
+<City> Athens </City>
+<Street> Alexandrou </Street>
+<Number> 89 </Number>
+
+<ReceiptID> 7 </ReceiptID>
+<Date> 5/6/2015 </Date>
+<Kind> Basic </Kind>
+<Amount> 3000.0 </Amount>
+<Company> Praktiker </Company>
+<Country> Greece </Country>
+<City> Ioannina </City>
+<Street> Trenidi </Street>
+<Number> 100 </Number>
+
+<ReceiptID> 8 </ReceiptID>
+<Date> 11/8/2016 </Date>
+<Kind> Entertainment </Kind>
+<Amount> 500.0 </Amount>
+<Company> Zoo </Company>
+<Country> Greece </Country>
+<City> Kiato </City>
+<Street> Megalou </Street>
+<Number> 89 </Number>
+
+<ReceiptID> 9 </ReceiptID>
+<Date> 5/6/2015 </Date>
+<Kind> Basic </Kind>
+<Amount> 300.0 </Amount>
+<Company> Supermarket </Company>
+<Country> Greece </Country>
+<City> Mala </City>
+<Street> Domidi </Street>
+<Number> 10 </Number>
+
+</Receipts>

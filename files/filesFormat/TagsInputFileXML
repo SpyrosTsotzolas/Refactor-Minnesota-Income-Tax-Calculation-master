@@ -1,0 +1,14 @@
+<Name> </Name>
+<AFM> </AFM>
+<Status> </Status>
+<Income> </Income>
+<Receipts>
+<ReceiptID> </ReceiptID>
+<Date> </Date>
+<Kind> </Kind>
+<Amount> </Amount>
+<Company> </Company>
+<Country> </Country>
+<City> </City>
+<Street> </Street>
+<Number> </Number>
